@@ -21,4 +21,4 @@ charts (c) 2019 Felicitas Pojtinger
 
 SPDX-License-Identifier: AGPL-3.0
 
-If a chart specifies a license, it overwrites this license.
+If a chart specifies a license, it overwrites this license for itself.
