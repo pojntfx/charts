@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  dibs:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2019-12-17T19:36:38.944451645+01:00"
+    description: System for distributed polyglot, multi-module and multi-architecture
+      development.
+    digest: c0486e3de20b5be414bf4a3bb159fee2b9887324fccd0d7adc1400e8c9a586c4
+    home: https://pojntfx.github.io/dibs/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: dibs
+    sources:
+    - git@github.com:pojntfx/dibs.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/dibs-0.0.1/dibs-0.0.1.tgz
+    version: 0.0.1
+generated: "2019-12-17T19:36:38.556885452+01:00"
