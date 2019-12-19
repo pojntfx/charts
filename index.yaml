@@ -35,4 +35,21 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/dibs-0.0.1/dibs-0.0.1.tgz
     version: 0.0.1
+  gomather:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2019-12-19T18:55:21.413993875Z"
+    description: Simple Go gRPC microservice that does math.
+    digest: 1c8c90a765706df14498f0da7a27518be70db284cead1eb0c2224901a948d739
+    home: https://pojntfx.github.io/gomather/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: gomather
+    sources:
+    - git@github.com:pojntfx/gomather.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/gomather-0.0.1/gomather-0.0.1.tgz
+    version: 0.0.1
 generated: "2019-12-17T19:36:38.556885452+01:00"
