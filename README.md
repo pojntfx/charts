@@ -17,7 +17,7 @@ Helm chart repository for my projects.
 
 ## License
 
-charts (c) 2019 Felix Pojtinger
+charts (c) 2020 Felix Pojtinger
 
 SPDX-License-Identifier: AGPL-3.0
 
