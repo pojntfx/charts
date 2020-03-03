@@ -137,4 +137,21 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/gomather-0.0.1/gomather-0.0.1.tgz
     version: 0.0.1
+  test-app:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-03-03T21:43:38.745405+01:00"
+    description: A simple test app.
+    digest: 10b7c51a3b574d376c8eb2f0ce1b954c7505f188673e56412d7d3fda877489d3
+    home: https://pojntfx.github.io/dibs/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: test-app
+    sources:
+    - git@github.com:pojntfx/dibs.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/test-app-0.0.1/test-app-0.0.1.tgz
+    version: 0.0.1
 generated: "2019-12-17T19:36:38.556885452+01:00"
