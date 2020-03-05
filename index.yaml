@@ -137,6 +137,23 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/gomather-0.0.1/gomather-0.0.1.tgz
     version: 0.0.1
+  ipxebuilderd:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-03-05T09:55:26.97651084Z"
+    description: An iPXE build system.
+    digest: 342b8b1432c479e29dc177ab8c29dbcc2465672f39dc28aedce94617096b7415
+    home: https://pojntfx.github.io/ipxebuilderd/
+    maintainers:
+    - email: felix@pojtinger.com
+      name: Felix Pojtinger
+      url: https://felix.pojtinger.com
+    name: ipxebuilderd
+    sources:
+    - git@github.com:pojntfx/ipxebuilderd.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/ipxebuilderd-0.0.1/ipxebuilderd-0.0.1.tgz
+    version: 0.0.1
   test-app:
   - apiVersion: v1
     appVersion: 0.0.1
