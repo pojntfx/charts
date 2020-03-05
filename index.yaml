@@ -68,6 +68,22 @@ entries:
     version: 0.0.1
   test-app:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2020-03-05T23:35:04.251935012Z"
+    description: A simple test app.
+    digest: a0f53c6133e089c65cfd472bceab2fc455e3a7ee2973e131ef6e4d6d38faf7a0
+    home: https://pojntfx.github.io/dibs/
+    maintainers:
+    - email: felix@pojtinger.com
+      name: Felix Pojtinger
+      url: https://felix.pojtinger.com
+    name: test-app
+    sources:
+    - git@github.com:pojntfx/dibs.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/test-app-0.0.3/test-app-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: 0.0.2
     created: "2020-03-05T14:40:32.69955356Z"
     description: A simple test app.
