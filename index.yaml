@@ -2,6 +2,22 @@ apiVersion: v1
 entries:
   gomather:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2020-03-05T23:33:52.252870026Z"
+    description: Simple Go gRPC microservice that does math.
+    digest: 67ea7d0e553c226949daed6dd40073d45a3900c6409af40d65c9e4d874070cdc
+    home: https://pojntfx.github.io/gomather/
+    maintainers:
+    - email: felix@pojtinger.com
+      name: Felix Pojtinger
+      url: https://felix.pojtinger.com
+    name: gomather
+    sources:
+    - git@github.com:pojntfx/gomather.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/gomather-0.0.3/gomather-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: 0.0.2
     created: "2020-03-05T15:15:57.210592737Z"
     description: Simple Go gRPC microservice that does math.
