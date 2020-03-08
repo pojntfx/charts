@@ -51,6 +51,22 @@ entries:
     version: 0.0.1
   ipxebuilderd:
   - apiVersion: v1
+    appVersion: 0.0.6
+    created: "2020-03-08T18:37:30.069205762Z"
+    description: An iPXE build system.
+    digest: 79bfa779c356b97d02585bb6f84943b921f7fec364edda0fd360a24f28309c19
+    home: https://pojntfx.github.io/ipxebuilderd/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: ipxebuilderd
+    sources:
+    - git@github.com:pojntfx/ipxebuilderd.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/ipxebuilderd-0.0.6/ipxebuilderd-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
     appVersion: 0.0.5
     created: "2020-03-07T21:48:54.246485412Z"
     description: An iPXE build system.
