@@ -11,7 +11,7 @@ Helm chart repository for my projects.
 ## Usage
 
 ```bash
-% helm search pojntfx
+% helm search repo pojntfx
 % helm install pojntfx/<chart>
 ```
 
