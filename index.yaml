@@ -19,6 +19,22 @@ entries:
     version: 0.0.3
   dhcpdd:
   - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2020-03-11T18:05:56.849454188Z"
+    description: An ISC DHCP server management daemon.
+    digest: c69bccdf972221f09a728be44f736addd6e4abd6ae106537919d25f9e21df78b
+    home: https://pojntfx.github.io/go-isc-dhcp/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: dhcpdd
+    sources:
+    - git@github.com:pojntfx/go-isc-dhcp.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/dhcpdd-0.0.4/dhcpdd-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
     appVersion: 0.0.3
     created: "2020-03-11T14:21:02.142883553Z"
     description: An ISC DHCP server management daemon.
