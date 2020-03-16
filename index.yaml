@@ -2,6 +2,22 @@ apiVersion: v1
 entries:
   dhclientd:
   - apiVersion: v1
+    appVersion: 0.0.6
+    created: "2020-03-16T12:10:56.796842282Z"
+    description: An ISC DHCP client management daemon.
+    digest: e8eefb4d8f954a426c212830f7928ae6dbe0fc061e3c34e94f1d0014b73c4b08
+    home: https://pojntfx.github.io/go-isc-dhcp/
+    maintainers:
+    - email: felix@pojtinger.com
+      name: Felix Pojtinger
+      url: https://felix.pojtinger.com
+    name: dhclientd
+    sources:
+    - git@github.com:pojntfx/go-isc-dhcp.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/dhclientd-0.0.6/dhclientd-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
     appVersion: 0.0.4
     created: "2020-03-11T18:07:35.780595371Z"
     description: An ISC DHCP client management daemon.
