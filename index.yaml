@@ -276,6 +276,23 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/ipxebuilderd-0.0.1/ipxebuilderd-0.0.1.tgz
     version: 0.0.1
+  supernoded:
+  - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2020-03-18T18:41:05.639343463Z"
+    description: An n2n supernode management daemon.
+    digest: 8f574b9eb3b90846eb1319a6840dfa7ba41dc2b5c3f034cbae457538ccd797b5
+    home: https://pojntfx.github.io/gon2n/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: supernoded
+    sources:
+    - git@github.com:pojntfx/gon2n.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/supernoded-0.0.2/supernoded-0.0.2.tgz
+    version: 0.0.2
   test-app:
   - apiVersion: v1
     appVersion: 0.0.7
