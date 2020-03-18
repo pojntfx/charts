@@ -98,6 +98,23 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/dhcpdd-0.0.3/dhcpdd-0.0.3.tgz
     version: 0.0.3
+  edged:
+  - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2020-03-18T18:42:35.692647618Z"
+    description: An n2n edge management daemon.
+    digest: 71131e0b97a946c920f81b935c4646645368fbcd157876c3c906afff184b23e2
+    home: https://pojntfx.github.io/gon2n/
+    maintainers:
+    - email: felix@pojtinger.com
+      name: Felix Pojtinger
+      url: https://felix.pojtinger.com
+    name: edged
+    sources:
+    - git@github.com:pojntfx/gon2n.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/edged-0.0.2/edged-0.0.2.tgz
+    version: 0.0.2
   gomather:
   - apiVersion: v1
     appVersion: 0.0.4
