@@ -343,6 +343,22 @@ entries:
     version: 0.0.1
   supernoded:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2020-03-19T21:46:46.734658096Z"
+    description: An n2n supernode management daemon.
+    digest: e959c19dec55f04a35ca4133b2f34be65b42e13509af549ca482b13e05d86dd9
+    home: https://pojntfx.github.io/gon2n/
+    maintainers:
+    - email: felix@pojtinger.com
+      name: Felix Pojtinger
+      url: https://felix.pojtinger.com
+    name: supernoded
+    sources:
+    - git@github.com:pojntfx/gon2n.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/supernoded-0.0.3/supernoded-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: 0.0.2
     created: "2020-03-18T18:41:05.639343463Z"
     description: An n2n supernode management daemon.
