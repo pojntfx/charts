@@ -505,6 +505,22 @@ entries:
     version: 0.0.1
   tftpdd:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2020-03-19T23:13:59.203891137Z"
+    description: A TFTP server management daemon.
+    digest: 33af149c0ac36629f6759e31d11004281a2564afa89528ec2b58f7b322941aab
+    home: https://pojntfx.github.io/tftpdd/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: tftpdd
+    sources:
+    - git@github.com:pojntfx/tftpdd.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/tftpdd-0.0.3/tftpdd-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: 0.0.2
     created: "2020-03-18T17:30:21.258641536Z"
     description: A TFTP server management daemon.
