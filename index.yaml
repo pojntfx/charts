@@ -586,6 +586,22 @@ entries:
     version: 0.0.1
   unnecessary-ly-backend:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2020-07-08T18:12:41.792042371Z"
+    description: Java backend for an unnecessary brick breaker clone.
+    digest: 67442c5787bdd1debbcb7becad65277c3035bb8d077a7dd2fe9a1ee6ca90e220
+    home: https://pojntfx.github.io/unnecessary.ly-backend-java/
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: unnecessary-ly-backend
+    sources:
+    - git@github.com:pojntfx/unnecessary.ly-backend-java.git
+    urls:
+    - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.3/unnecessary-ly-backend-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: 0.0.2
     created: "2020-07-08T00:15:48.2564588Z"
     description: Java backend for an unnecessary brick breaker clone.
