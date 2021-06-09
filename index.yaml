@@ -244,21 +244,22 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/gomather-0.0.2/gomather-0.0.2.tgz
     version: 0.0.2
-  - apiVersion: v1
+  - apiVersion: v2
     appVersion: 0.0.1
-    created: "2019-12-19T18:55:21.413993875Z"
+    created: "2021-06-09T13:43:47.615388627Z"
     description: Simple Go gRPC microservice that does math.
-    digest: 1c8c90a765706df14498f0da7a27518be70db284cead1eb0c2224901a948d739
-    home: https://pojntfx.github.io/gomather/
+    digest: 39df5a804f3d0c34cbfb72fb6cc817550b592a2230b3470ee10eb3b0409b7818
+    home: https://github.com/pojntfx/grpc-examples
     maintainers:
     - email: felicitas@pojtinger.com
       name: Felicitas Pojtinger
       url: https://felicitas.pojtinger.com
     name: gomather
     sources:
-    - git@github.com:pojntfx/gomather.git
+    - https://github.com/pojntfx/grpc-examples.git
+    type: application
     urls:
-    - https://github.com/pojntfx/charts/releases/download/gomather-0.0.1/gomather-0.0.1.tgz
+    - https://pojntfx.github.io/charts/gomather-0.0.1.tgz
     version: 0.0.1
   ipxebuilderd:
   - apiVersion: v1
@@ -665,4 +666,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2019-12-17T19:36:38.556885452+01:00"
+generated: "2021-06-09T13:43:47.614866703Z"
