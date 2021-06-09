@@ -414,6 +414,23 @@ entries:
     version: 0.0.3
   mather-rs:
   - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2021-06-09T23:03:42.121382292Z"
+    description: Simple Rust gRPC microservice that does math.
+    digest: 00ed6f16d29e7edd9ec5b6755f6f0bf0fff0e7ccc8f0fe1554fb567dd960c0cf
+    home: https://github.com/pojntfx/grpc-examples
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: mather-rs
+    sources:
+    - https://github.com/pojntfx/grpc-examples.git
+    type: application
+    urls:
+    - https://pojntfx.github.io/charts/mather-rs-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
     appVersion: 0.0.3
     created: "2021-06-09T19:33:05.416690535Z"
     description: Simple Rust gRPC microservice that does math.
@@ -741,4 +758,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-09T23:03:18.294484543Z"
+generated: "2021-06-09T23:03:42.120854288Z"
