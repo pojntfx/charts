@@ -359,6 +359,24 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/ipxebuilderd-0.0.1/ipxebuilderd-0.0.1.tgz
     version: 0.0.1
+  mather-js:
+  - apiVersion: v2
+    appVersion: 0.0.3
+    created: "2021-06-09T19:33:31.394470671Z"
+    description: Simple JavaScript gRPC microservice that does math.
+    digest: eb81af5dce8afff2e62c950f8c8c355a61e356c1e4a53e762bf5196c23295af6
+    home: https://github.com/pojntfx/grpc-examples
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: mather-js
+    sources:
+    - https://github.com/pojntfx/grpc-examples.git
+    type: application
+    urls:
+    - https://pojntfx.github.io/charts/mather-js-0.0.3.tgz
+    version: 0.0.3
   mather-rs:
   - apiVersion: v2
     appVersion: 0.0.3
@@ -670,4 +688,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-09T19:33:05.416203535Z"
+generated: "2021-06-09T19:33:31.394005667Z"
