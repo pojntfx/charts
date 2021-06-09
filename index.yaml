@@ -500,6 +500,23 @@ entries:
     version: 0.0.1
   pymather:
   - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2021-06-09T23:04:47.880296583Z"
+    description: Simple Python gRPC microservice that does math.
+    digest: 75c28b9dbacc36dd25f8cc24127891ee4d2b38c2fc322cfd2c0ed9f06a59146e
+    home: https://github.com/pojntfx/grpc-examples
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: pymather
+    sources:
+    - https://github.com/pojntfx/grpc-examples.git
+    type: application
+    urls:
+    - https://pojntfx.github.io/charts/pymather-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
     appVersion: 0.0.3
     created: "2021-06-09T19:34:22.652653941Z"
     description: Simple Python gRPC microservice that does math.
@@ -792,4 +809,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-09T23:04:26.956093978Z"
+generated: "2021-06-09T23:04:47.879796972Z"
