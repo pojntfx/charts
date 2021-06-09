@@ -396,6 +396,23 @@ entries:
     version: 0.0.1
   mather-js:
   - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2021-06-09T23:04:04.440872746Z"
+    description: Simple JavaScript gRPC microservice that does math.
+    digest: beffca67d6f1a8f0f73529e058fdf24345a9e3acdb9c4a87923ddc1684178e46
+    home: https://github.com/pojntfx/grpc-examples
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: mather-js
+    sources:
+    - https://github.com/pojntfx/grpc-examples.git
+    type: application
+    urls:
+    - https://pojntfx.github.io/charts/mather-js-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
     appVersion: 0.0.3
     created: "2021-06-09T19:33:31.394470671Z"
     description: Simple JavaScript gRPC microservice that does math.
@@ -758,4 +775,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-09T23:03:42.120854288Z"
+generated: "2021-06-09T23:04:04.44045794Z"
