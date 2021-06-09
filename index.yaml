@@ -195,24 +195,6 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/edged-0.0.2/edged-0.0.2.tgz
     version: 0.0.2
-  gomather:
-  - apiVersion: v2
-    appVersion: 0.0.1
-    created: "2021-06-09T13:43:47.615388627Z"
-    description: Simple Go gRPC microservice that does math.
-    digest: 39df5a804f3d0c34cbfb72fb6cc817550b592a2230b3470ee10eb3b0409b7818
-    home: https://github.com/pojntfx/grpc-examples
-    maintainers:
-    - email: felicitas@pojtinger.com
-      name: Felicitas Pojtinger
-      url: https://felicitas.pojtinger.com
-    name: gomather
-    sources:
-    - https://github.com/pojntfx/grpc-examples.git
-    type: application
-    urls:
-    - https://pojntfx.github.io/charts/gomather-0.0.1.tgz
-    version: 0.0.1
   ipxebuilderd:
   - apiVersion: v1
     appVersion: 0.0.10
