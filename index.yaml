@@ -197,6 +197,23 @@ entries:
     version: 0.0.2
   gomather:
   - apiVersion: v2
+    appVersion: 0.0.3
+    created: "2021-06-09T19:32:40.366713912Z"
+    description: Simple Go gRPC microservice that does math.
+    digest: d2bd7a06076e4814ac07e3b652295934edb5d8002240478d5f8d1563345f8c25
+    home: https://github.com/pojntfx/grpc-examples
+    maintainers:
+    - email: felicitas@pojtinger.com
+      name: Felicitas Pojtinger
+      url: https://felicitas.pojtinger.com
+    name: gomather
+    sources:
+    - https://github.com/pojntfx/grpc-examples.git
+    type: application
+    urls:
+    - https://pojntfx.github.io/charts/gomather-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
     appVersion: 0.0.1
     created: "2021-06-09T17:15:32.032129479Z"
     description: Simple Go gRPC microservice that does math.
@@ -636,4 +653,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-09T17:15:55.986905962Z"
+generated: "2021-06-09T19:32:40.366188211Z"
