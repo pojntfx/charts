@@ -414,9 +414,9 @@ entries:
   mather-js:
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2021-06-09T23:04:04.440872746Z"
+    created: "2021-10-28T17:01:15.431717428Z"
     description: Simple JavaScript gRPC microservice that does math.
-    digest: beffca67d6f1a8f0f73529e058fdf24345a9e3acdb9c4a87923ddc1684178e46
+    digest: f374bbc84ad616502e288dfee09d6e4e09563ac39267a5a9e60b07ad654fb67e
     home: https://github.com/pojntfx/grpc-examples
     maintainers:
     - email: felicitas@pojtinger.com
@@ -809,4 +809,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-10-28T17:00:53.58264299Z"
+generated: "2021-10-28T17:01:15.431218722Z"
