@@ -501,9 +501,9 @@ entries:
   pymather:
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2021-06-09T23:04:47.880296583Z"
+    created: "2021-10-28T17:02:03.362497658Z"
     description: Simple Python gRPC microservice that does math.
-    digest: 75c28b9dbacc36dd25f8cc24127891ee4d2b38c2fc322cfd2c0ed9f06a59146e
+    digest: 476d9eadd28d08d6b12961c9688acf594bb2bb0f6773d10c95022066eec04810
     home: https://github.com/pojntfx/grpc-examples
     maintainers:
     - email: felicitas@pojtinger.com
@@ -809,4 +809,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-10-28T17:01:38.128838635Z"
+generated: "2021-10-28T17:02:03.362032458Z"
