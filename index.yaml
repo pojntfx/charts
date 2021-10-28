@@ -3,9 +3,9 @@ entries:
   MatherNet:
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2021-06-09T23:04:26.956633708Z"
+    created: "2021-10-28T17:01:38.129458836Z"
     description: Simple C# gRPC microservice that does math.
-    digest: 548af5ed9c47b9132162d0b6df3dcb24d35ea8af8ceee0eadf81d6324ad8757f
+    digest: 51bae98f7df5cf16d8022517c624cadd97f7584983be735300e4350e8ee07790
     home: https://github.com/pojntfx/grpc-examples
     maintainers:
     - email: felicitas@pojtinger.com
@@ -809,4 +809,4 @@ entries:
     urls:
     - https://github.com/pojntfx/charts/releases/download/unnecessary-ly-backend-0.0.1/unnecessary-ly-backend-0.0.1.tgz
     version: 0.0.1
-generated: "2021-10-28T17:01:15.431218722Z"
+generated: "2021-10-28T17:01:38.128838635Z"
